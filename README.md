@@ -10,7 +10,7 @@ $ pip install moviepy
 
 ## 2.`Usage`
 
-### 2.1.`python`
+### 2.1.`Python`
 
 ```shell
 $ python moviec.py -i input.mp4 -o input.wav
@@ -25,4 +25,19 @@ $ pyinstaller --onefile moviec.py
 
 $ moviec -i input.mp4 -o input_c.wav
 ```
+
+## 3.`Release`
+
+### 3.1.`bin`
+
+```shell
+# windows
+# ...
+# linux
+# ...
+# macOS
+# ...
+```
+
+
 
