@@ -30,14 +30,14 @@ $ moviec -i input.mp4 -o input_c.wav
 
 ### 3.1.`bin`
 
-```shell
-# windows
-# ...
-# linux
-# ...
-# macOS
-# ...
-```
+#### 3.1.1.`win`
 
+[moviec](./bin/win/moviec.exe)
 
+#### 3.1.2.`linux`
+
+#### 3.1.3.`macOS`
+
+> Binary executable files can be easily built on `Linux` and `macOS` systems. This project does not provide executable
+> files for the time being.
 
